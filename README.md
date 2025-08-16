@@ -13,8 +13,7 @@
   </tr>
 </table>
 -->
-
-# Hi, I'm Andressa!
+## Hi, I'm Andressa!
 
 <img align='left' src="https://github.com/engelandressa/engelandressa/blob/main/pixel-walking.gif" height="200" >
 
@@ -69,8 +68,27 @@ English         ▰▰▰▰▰▰ 100%
 Japanese        ▰▰▰▱▱▱ 50% 
 Spanish         ▰▱▱▱▱▱ 17% 
 ```
+#
+<p> &nbsp;&nbsp; </p>
+
+[<img src="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png" height="50" align="center" alt="Follow Andressa Engel on LinkedIn" title="Follow Andressa Engel on LinkedIn"/>](https://www.linkedin.com/in/andressa-engel/)
 
 <!--
+<div>
+  [<img src="https://github.com/engelandressa/engelandressa/blob/main/coffee-pixel-icon.png" height="20em" align="left" alt="Follow Andressa Engel on LinkedIn" title="Follow Andressa Engel on LinkedIn"/>](https://www.linkedin.com/in/andressa-engel/)<h1>Oi Teste</h1>
+</div>
+
+<div class="container">
+  <img class="image" src="https://github.com/engelandressa/engelandressa/blob/main/coffee-pixel-icon.png" alt="Descrição da imagem" width="50" height="50">
+  <p>Este é o texto que ficará ao lado da imagem.</p>
+</div>
+
+<img align='left' src="https://github.com/engelandressa/engelandressa/blob/main/coffee-pixel-icon.png" height="25" >
+
+<p><h1>Hi, I'm Andressa!</h1></p>
+
+
+
 **engelandressa/engelandressa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

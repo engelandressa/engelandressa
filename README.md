@@ -1,4 +1,4 @@
-# Hi, I'm Andressa!
+<!-- # Hi, I'm Andressa!
 
 <table>
   <tr>
@@ -12,11 +12,26 @@
     </td>
   </tr>
 </table>
+-->
+
+# Hi, I'm Andressa!
+
+<img align='left' src="https://github.com/engelandressa/engelandressa/blob/main/pixel-walking.gif" height="200" >
+
+   &nbsp;&nbsp;
+<p>I'm a <b>Brazilian Graphic Designer</b> with almost 4 years of experience. </p>
+<p>Currently, I'm <b>transitioning into the tech field</b>, combining my background in visual design with new skills in UI/UX and software development. </p>
+<p>I’ve recently started a degree in <b>Multiplatform Software Development</b> at <b>Fatec</b>, and I am actively looking for an internship to apply and grow my skills in a professional environment.</p>
+   &nbsp;&nbsp;
+
+## Where to Find Me
 
    &nbsp;&nbsp;
  [<img src="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon.png" height="30em" align="center" alt="Follow Andressa Engel on LinkedIn" title="Follow Andressa Engel on LinkedIn"/>](https://www.linkedin.com/in/andressa-engel/)
    &nbsp;&nbsp;
- [<img src="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png" height="30em" align="center" alt="Check Out Andressa Engel's Website - Portfolio" title="Check Out Andressa Engel's Website - Portfolio"/>]([https://instagram.com/Raymo111](https://www.andressaengel.com/))
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png" height="30em" align="center" alt="Check Out Andressa Engel's Website - Portfolio" title="Check Out Andressa Engel's Website - Portfolio"/>](https://www.andressaengel.com/)
+ &nbsp;&nbsp;
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/email-icon.png" height="30em" align="center" alt="Mail to Andressa Engel" title="Mail to Andressa Engel"/>](mailto:engelandressa@hotmail.com)
 
 
 ## Technologies I'm Learning

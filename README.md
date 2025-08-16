@@ -33,7 +33,7 @@
  &nbsp;&nbsp;
  [<img src="https://github.com/engelandressa/engelandressa/blob/main/email-icon.png" height="30em" align="center" alt="Mail to Andressa Engel" title="Mail to Andressa Engel"/>](mailto:engelandressa@hotmail.com)
  &nbsp;&nbsp;
- [<img src="https://github.com/engelandressa/engelandressa/blob/main/behance-icon.png" height="30em" align="center" alt="Follow Andressa Engel on Behance" title="Follow Andressa Engel on Behance"/>](https://www.behance.net/engelandressa)
+ [<img src="https://github.com/engelandressa/engelandressa/blob/a8827231f5ca72001a852665a4dfcaad02728851/behance-icon.png" height="30em" align="center" alt="Follow Andressa Engel on Behance" title="Follow Andressa Engel on Behance"/>](https://www.behance.net/engelandressa)
 
 
 ## Technologies I'm Learning

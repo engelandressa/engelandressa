@@ -32,6 +32,8 @@
  [<img src="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png" height="30em" align="center" alt="Check Out Andressa Engel's Website - Portfolio" title="Check Out Andressa Engel's Website - Portfolio"/>](https://www.andressaengel.com/)
  &nbsp;&nbsp;
  [<img src="https://github.com/engelandressa/engelandressa/blob/main/email-icon.png" height="30em" align="center" alt="Mail to Andressa Engel" title="Mail to Andressa Engel"/>](mailto:engelandressa@hotmail.com)
+ &nbsp;&nbsp;
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/behance-icon.png" height="30em" align="center" alt="Follow Andressa Engel on Behance" title="Follow Andressa Engel on Behance"/>](https://www.behance.net/engelandressa)
 
 
 ## Technologies I'm Learning

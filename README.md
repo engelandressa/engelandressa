@@ -42,13 +42,6 @@
 - Clip Studio Paint
 - CapCut
 
-## I Speak
-
-- English
-- Portuguese
-- Japanese
-- Spanish
-
 ## Languages I Speak
 
 <p>Portuguese ██████ 100%</p>

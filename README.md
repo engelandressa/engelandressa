@@ -21,11 +21,17 @@
 
 ## Technologies I Know
 
-- HTML
-- CSS
-- Javascript
-- Python
+ &nbsp;&nbsp;
+ <img src="https://github.com/engelandressa/engelandressa/blob/main/html-icon.png" height="30em" align="center" alt="HTML 5" title="HTML 5"/>
+ &nbsp;&nbsp;
+ <img src="https://github.com/engelandressa/engelandressa/blob/main/css-3-icon.png" height="30em" align="center" alt="CSS 3" title="CSS 3"/>
+ &nbsp;&nbsp;
+ <img src="https://github.com/engelandressa/engelandressa/blob/main/java-script-icon.png" height="30em" align="center" alt="Javascript" title="Javascript"/>
+ &nbsp;&nbsp;
+ <img src="https://github.com/engelandressa/engelandressa/blob/main/python-icon.png" height="30em" align="center" alt="Python" title="Python"/>
+ &nbsp;&nbsp;
 
+ 
 ## Software I Know
 
 - Visual Studio Code

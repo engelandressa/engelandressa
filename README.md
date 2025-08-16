@@ -22,13 +22,13 @@
 ## Technologies I Know
 
  &nbsp;&nbsp;
- <img src="https://github.com/engelandressa/engelandressa/blob/main/html-icon.png" height="30em" align="center" alt="HTML 5" title="HTML 5"/>
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/html-icon.png" height="30em" align="center" alt="HTML 5" title="HTML 5"/>](https://www.linkedin.com/in/andressa-engel/)
  &nbsp;&nbsp;
- <img src="https://github.com/engelandressa/engelandressa/blob/main/css-3-icon.png" height="30em" align="center" alt="CSS 3" title="CSS 3"/>
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/css-3-icon.png" height="30em" align="center" alt="CSS 3" title="CSS 3"/>](https://www.linkedin.com/in/andressa-engel/)
  &nbsp;&nbsp;
- <img src="https://github.com/engelandressa/engelandressa/blob/main/java-script-icon.png" height="30em" align="center" alt="Javascript" title="Javascript"/>
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/java-script-icon.png" height="30em" align="center" alt="Javascript" title="Javascript"/>](https://www.linkedin.com/in/andressa-engel/)
  &nbsp;&nbsp;
- <img src="https://github.com/engelandressa/engelandressa/blob/main/python-icon.png" height="30em" align="center" alt="Python" title="Python"/>
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/python-icon.png" height="30em" align="center" alt="Python" title="Python"/>](https://www.linkedin.com/in/andressa-engel/)
  &nbsp;&nbsp;
 
  

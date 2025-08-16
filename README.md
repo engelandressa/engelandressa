@@ -51,7 +51,7 @@
  
 ## Software I Know
 
-<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/pixel-art-bust.png" height="200" >
+<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/pixel-bust.gif" height="200" >
 
 - Visual Studio Code
 - Figma

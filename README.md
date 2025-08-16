@@ -19,7 +19,7 @@
  [<img src="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png" height="30em" align="center" alt="Check Out Andressa Engel's Website - Portfolio" title="Check Out Andressa Engel's Website - Portfolio"/>]([https://instagram.com/Raymo111](https://www.andressaengel.com/))
 
 
-## Technologies I Know
+## Technologies I'm Learning
 
  &nbsp;&nbsp;
  [<img src="https://github.com/engelandressa/engelandressa/blob/main/html-icon.png" height="30em" align="center" alt="HTML 5" title="HTML 5"/>](https://www.linkedin.com/in/andressa-engel/)

@@ -13,8 +13,10 @@
   </tr>
 </table>
 
-  [<img src="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon.png" height="30em" align="center" alt="Follow Andressa Engel on LinkedIn" title="Follow Andressa Engel on LinkedIn"/>](https://www.linkedin.com/in/andressa-engel/)
-  [<img src="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png" height="30em" align="center" alt="Check Out Andressa Engel's Website - Portfolio" title="Check Out Andressa Engel's Website - Portfolio"/>]([https://instagram.com/Raymo111](https://www.andressaengel.com/))
+   &nbsp;&nbsp;
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon.png" height="30em" align="center" alt="Follow Andressa Engel on LinkedIn" title="Follow Andressa Engel on LinkedIn"/>](https://www.linkedin.com/in/andressa-engel/)
+   &nbsp;&nbsp;
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png" height="30em" align="center" alt="Check Out Andressa Engel's Website - Portfolio" title="Check Out Andressa Engel's Website - Portfolio"/>]([https://instagram.com/Raymo111](https://www.andressaengel.com/))
 
 
 ## Technologies I Know

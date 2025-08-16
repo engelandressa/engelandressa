@@ -59,13 +59,12 @@
 
 ## Languages I Speak
 
-<p>Portuguese ██████ 100%</p>
-<p>English ██████ 100%</p>
-<p>Japanese ███░░░ 50%</p>
-<p>Spanish █░░░░░ 20%</p>
-
-
-
+```text
+Portuguese      ▰▰▰▰▰▰ 100%
+English         ▰▰▰▰▰▰ 100%
+Japanese        ▰▰▰▱▱▱ 50% 
+Spanish         ▰▱▱▱▱▱ 17% 
+```
 
 <!--
 **engelandressa/engelandressa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

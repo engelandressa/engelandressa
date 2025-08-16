@@ -49,6 +49,16 @@
 - Japanese
 - Spanish
 
+## Languages I Speak
+
+<p>Portuguese ██████ 100%</p>
+<p>English ██████ 100%</p>
+<p>Japanese ███░░░ 50%</p>
+<p>Spanish █░░░░░ 20%</p>
+
+
+
+
 <!--
 **engelandressa/engelandressa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

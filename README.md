@@ -1,5 +1,7 @@
 ## Hi I'm Andressa!
 
+I'm a Brazilian Graphic Designer with almost 4 years of experience. Currently, I'm transitioning into the tech field, combining my background in visual design with new skills in UI/UX and software development. I’ve recently started a degree in Multipataform Software Development at Fatec, and I am actively looking for an internship to apply and grow my skills in a professional environment.
+
 <!--
 **engelandressa/engelandressa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

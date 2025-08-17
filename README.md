@@ -5,9 +5,8 @@
 <img align='left' src="https://github.com/engelandressa/engelandressa/blob/main/pixel-walking.gif" height="200" >
 
    &nbsp;&nbsp;
-<p>I'm a <b>Brazilian Graphic Designer</b> with 4+ years of experience. </p>
-<p>Currently, I'm <b>transitioning into the tech field</b>, combining my background in visual design with new skills in UI/UX and software development. </p>
-<p>I’ve recently started a degree in <b>Multiplatform Software Development</b> at <b>Fatec</b>, and I am actively looking for an internship to apply and grow my skills in a professional environment.</p>
+<p>I'm a <b>Brazilian Graphic Designer</b> with 4+ years of experience. Currently, I'm <b>transitioning into the tech field</b>, combining my background in Design with new skills in UI/UX and software development to become a <b>Developer</b>. </p>
+<p>I’m a student of <b>Multiplatform Software Development</b> at <b>Fatec</b>, I'm actively seeking an internship to apply and grow my skills. I'm exploring opportunities in Front-End, Back-End, DevOps, and Full-Stack Development.</p>
    &nbsp;&nbsp;
 
 ## Where to Find Me
@@ -153,7 +152,11 @@ Spanish         ▰▱▱▱▱▱ 17%
 
 <p><h1>Hi, I'm Andressa!</h1></p>
 
-
+ &nbsp;&nbsp;
+<p>I'm a <b>Brazilian Graphic Designer</b> with 4+ years of experience. </p>
+<p>Currently, I'm <b>transitioning into the tech field</b>, combining my background in visual design with new skills in UI/UX and software development. </p>
+<p>I’ve recently started a degree in <b>Multiplatform Software Development</b> at <b>Fatec</b>, and I am actively looking for an internship to apply and grow my skills in a professional environment.</p>
+   &nbsp;&nbsp;
 
 **engelandressa/engelandressa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

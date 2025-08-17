@@ -25,15 +25,38 @@
 
 ## Where to Find Me
 
-   &nbsp;&nbsp;
- [<img src="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon.png" height="30em" align="center" alt="Follow Andressa Engel on LinkedIn" title="Follow Andressa Engel on LinkedIn"/>](https://www.linkedin.com/in/andressa-engel/)
-   &nbsp;&nbsp;
- [<img src="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png" height="30em" align="center" alt="Check Out Andressa Engel's Website - Portfolio" title="Check Out Andressa Engel's Website - Portfolio"/>](https://www.andressaengel.com/)
- &nbsp;&nbsp;
- [<img src="https://github.com/engelandressa/engelandressa/blob/main/email-icon.png" height="30em" align="center" alt="Mail to Andressa Engel" title="Mail to Andressa Engel"/>](mailto:engelandressa@hotmail.com)
- &nbsp;&nbsp;
- [<img src="https://github.com/engelandressa/engelandressa/blob/a8827231f5ca72001a852665a4dfcaad02728851/behance-icon.png" height="30em" align="center" alt="Follow Andressa Engel on Behance" title="Follow Andressa Engel on Behance"/>](https://www.behance.net/engelandressa)
-
+<a href="https://www.linkedin.com/in/andressa-engel/" title="Follow Andressa Engel on LinkedIn" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon.png">
+    <img alt="Follow Andressa Engel on LinkedIn" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon.png" width="30">
+  </picture>
+</a>
+&nbsp;
+<a href="https://www.andressaengel.com/" title="Check Out Andressa Engel's Website - Portfolio" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/web-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png">
+    <img alt="Check Out Andressa Engel's Website - Portfolio" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png" width="30">
+  </picture>
+</a>
+&nbsp;
+<a href="mailto:engelandressa@hotmail.com" title="Mail to: engelandressa@hotmail.com" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/email-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/email-icon.png">
+    <img alt="Mail to: engelandressa@hotmail.com" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/email-icon.png" width="30">
+  </picture>
+</a>
+&nbsp;
+<a href="https://www.behance.net/engelandressa" title="Follow Andressa Engel on Behance" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/behance-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/behance-icon.png">
+    <img alt="Follow Andressa Engel on Behance" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/behance-icon.png" width="30">
+  </picture>
+</a>
+&nbsp;
 
 ## Technologies I'm Learning
 
@@ -73,41 +96,6 @@ Spanish         ▰▱▱▱▱▱ 17%
 
 [<img src="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png" height="50" align="center" alt="Follow Andressa Engel on LinkedIn" title="Follow Andressa Engel on LinkedIn"/>](https://www.linkedin.com/in/andressa-engel/)
 
-## Teste
-
-<a href="https://www.linkedin.com/in/andressa-engel/" title="Follow Andressa Engel on LinkedIn" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon.png">
-    <img alt="Follow Andressa Engel on LinkedIn" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon.png" width="30">
-  </picture>
-</a>
-&nbsp;
-<a href="https://www.andressaengel.com/" title="Check Out Andressa Engel's Website - Portfolio" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/web-icon-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png">
-    <img alt="Check Out Andressa Engel's Website - Portfolio" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png" width="30">
-  </picture>
-</a>
-&nbsp;
-<a href="mailto:engelandressa@hotmail.com" title="Mail to: engelandressa@hotmail.com" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/email-icon-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/email-icon.png">
-    <img alt="Mail to: engelandressa@hotmail.com" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/email-icon.png" width="30">
-  </picture>
-</a>
-&nbsp;
-<a href="https://www.behance.net/engelandressa" title="Follow Andressa Engel on Behance" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/behance-icon-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/behance-icon.png">
-    <img alt="Follow Andressa Engel on Behance" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/behance-icon.png" width="30">
-  </picture>
-</a>
-&nbsp;
-
 
 
 
@@ -146,4 +134,17 @@ Here are some ideas to get you started:
 
 - <b>LinkedIn:</b> [Andressa Engel](https://www.linkedin.com/in/andressa-engel/)
 - <b>Website:</b> [Portfolio Website](https://www.andressaengel.com/)
+
+
+## Where to find me
+
+   &nbsp;&nbsp;
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon.png" height="30em" align="center" alt="Follow Andressa Engel on LinkedIn" title="Follow Andressa Engel on LinkedIn"/>](https://www.linkedin.com/in/andressa-engel/)
+   &nbsp;&nbsp;
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png" height="30em" align="center" alt="Check Out Andressa Engel's Website - Portfolio" title="Check Out Andressa Engel's Website - Portfolio"/>](https://www.andressaengel.com/)
+ &nbsp;&nbsp;
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/email-icon.png" height="30em" align="center" alt="Mail to Andressa Engel" title="Mail to Andressa Engel"/>](mailto:engelandressa@hotmail.com)
+ &nbsp;&nbsp;
+ [<img src="https://github.com/engelandressa/engelandressa/blob/a8827231f5ca72001a852665a4dfcaad02728851/behance-icon.png" height="30em" align="center" alt="Follow Andressa Engel on Behance" title="Follow Andressa Engel on Behance"/>](https://www.behance.net/engelandressa)
+
 -->

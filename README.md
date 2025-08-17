@@ -25,6 +25,7 @@
 
 ## Where to Find Me
 
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/andressa-engel/" title="Follow Andressa Engel on LinkedIn" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon-white.png">
@@ -60,17 +61,40 @@
 
 ## Technologies I'm Learning
 
- &nbsp;&nbsp;
- [<img src="https://github.com/engelandressa/engelandressa/blob/main/html-icon.png" height="30em" align="center" alt="HTML 5" title="HTML 5"/>](https://www.linkedin.com/in/andressa-engel/)
- &nbsp;&nbsp;
- [<img src="https://github.com/engelandressa/engelandressa/blob/main/css-3-icon.png" height="30em" align="center" alt="CSS 3" title="CSS 3"/>](https://www.linkedin.com/in/andressa-engel/)
- &nbsp;&nbsp;
- [<img src="https://github.com/engelandressa/engelandressa/blob/main/java-script-icon.png" height="30em" align="center" alt="Javascript" title="Javascript"/>](https://www.linkedin.com/in/andressa-engel/)
- &nbsp;&nbsp;
- [<img src="https://github.com/engelandressa/engelandressa/blob/main/python-icon.png" height="30em" align="center" alt="Python" title="Python"/>](https://www.linkedin.com/in/andressa-engel/)
- &nbsp;&nbsp;
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/andressa-engel/" title="HTML - Basic" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/html-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/html-icon.png">
+    <img alt="HTML - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/html-icon.png" width="30">
+  </picture>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/andressa-engel/" title="CSS - Basic" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/css-3-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/css-3-icon.png">
+    <img alt="CSS - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/css-3-icon.png" width="30">
+  </picture>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/andressa-engel/" title="JavaScript - Basic" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/java-script-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/java-script-icon.png">
+    <img alt="JavaScript - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/java-script-icon.png" width="30">
+  </picture>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/andressa-engel/" title="Python - Basic" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/python-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/python-icon.png">
+    <img alt="Python - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/python-icon.png" width="30">
+  </picture>
+</a>
+&nbsp;
 
- 
 ## Software I Know
 
 <img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/pixel-bust.gif" height="200" >
@@ -136,7 +160,7 @@ Here are some ideas to get you started:
 - <b>Website:</b> [Portfolio Website](https://www.andressaengel.com/)
 
 
-## Where to find me
+## Where To Find Me
 
    &nbsp;&nbsp;
  [<img src="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon.png" height="30em" align="center" alt="Follow Andressa Engel on LinkedIn" title="Follow Andressa Engel on LinkedIn"/>](https://www.linkedin.com/in/andressa-engel/)
@@ -146,5 +170,17 @@ Here are some ideas to get you started:
  [<img src="https://github.com/engelandressa/engelandressa/blob/main/email-icon.png" height="30em" align="center" alt="Mail to Andressa Engel" title="Mail to Andressa Engel"/>](mailto:engelandressa@hotmail.com)
  &nbsp;&nbsp;
  [<img src="https://github.com/engelandressa/engelandressa/blob/a8827231f5ca72001a852665a4dfcaad02728851/behance-icon.png" height="30em" align="center" alt="Follow Andressa Engel on Behance" title="Follow Andressa Engel on Behance"/>](https://www.behance.net/engelandressa)
+
+ ## Technologies I'm Learning
+
+ &nbsp;&nbsp;
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/html-icon.png" height="30em" align="center" alt="HTML 5" title="HTML 5"/>](https://www.linkedin.com/in/andressa-engel/)
+ &nbsp;&nbsp;
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/css-3-icon.png" height="30em" align="center" alt="CSS 3" title="CSS 3"/>](https://www.linkedin.com/in/andressa-engel/)
+ &nbsp;&nbsp;
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/java-script-icon.png" height="30em" align="center" alt="Javascript" title="Javascript"/>](https://www.linkedin.com/in/andressa-engel/)
+ &nbsp;&nbsp;
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/python-icon.png" height="30em" align="center" alt="Python" title="Python"/>](https://www.linkedin.com/in/andressa-engel/)
+ &nbsp;&nbsp;
 
 -->

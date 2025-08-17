@@ -1,19 +1,6 @@
-<!-- # Hi, I'm Andressa!
+## Hi, I'm Andressa! 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/engelandressa/engelandressa/blob/main/pixel-walking.gif" alt="Pixel Art Walking" width="150"/>
-    </td>
-    <td>
-     <p>I'm a <b>Brazilian Graphic Designer</b> with almost 4 years of experience. </p>
-      <p>Currently, I'm <b>transitioning into the tech field</b>, combining my background in visual design with new skills in UI/UX and software development. </p>
-      <p>I’ve recently started a degree in <b>Multiplatform Software Development</b> at <b>Fatec</b>, and I am actively looking for an internship to apply and grow my skills in a professional environment.</p>
-    </td>
-  </tr>
-</table>
--->
-## Hi, I'm Andressa!
+
 
 <img align='left' src="https://github.com/engelandressa/engelandressa/blob/main/pixel-walking.gif" height="200" >
 
@@ -118,6 +105,33 @@ Spanish         ▰▱▱▱▱▱ 17%
 
 <p align="center">
   <a href="https://www.andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png" alt="Nina" width="30"/></a>
+
+
+<!-- 
+<p align="left">
+<a href="https://www.andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png" alt="Nina" width="20"/></a><h1>Hi, I'm Andressa!</h1>
+</p>
+<img align="left" src="https://github.com/engelandressa/engelandressa/blob/main/coffee-pixel-icon.png" height="50" ><h1>Hi, I'm Andressa!</h1>
+
+
+
+# Hi, I'm Andressa!
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/engelandressa/engelandressa/blob/main/pixel-walking.gif" alt="Pixel Art Walking" width="150"/>
+    </td>
+    <td>
+     <p>I'm a <b>Brazilian Graphic Designer</b> with almost 4 years of experience. </p>
+      <p>Currently, I'm <b>transitioning into the tech field</b>, combining my background in visual design with new skills in UI/UX and software development. </p>
+      <p>I’ve recently started a degree in <b>Multiplatform Software Development</b> at <b>Fatec</b>, and I am actively looking for an internship to apply and grow my skills in a professional environment.</p>
+    </td>
+  </tr>
+</table>
+-->
+
+
 
 <!--
 

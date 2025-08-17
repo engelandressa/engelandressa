@@ -115,16 +115,17 @@ English         ▰▰▰▰▰▰ 100%
 Japanese        ▰▰▰▱▱▱ 50% 
 Spanish         ▰▱▱▱▱▱ 17% 
 ```
-#
-<p> &nbsp;&nbsp; </p>
 
-[<img src="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png" height="50" align="center" alt="Follow Andressa Engel on LinkedIn" title="Follow Andressa Engel on LinkedIn"/>](https://www.linkedin.com/in/andressa-engel/)
-
-
-
-
+<p align="center">
+  <a href="https://www.andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png" alt="Nina" width="30"/></a>
 
 <!--
+
+<p align="center">
+  <a href="https://www.andressaengel.com/">Andressa Engel</a> | Graphic Designer | Developer In Progress | 2025 .
+</p>
+
+
 <div>
   [<img src="https://github.com/engelandressa/engelandressa/blob/main/coffee-pixel-icon.png" height="20em" align="left" alt="Follow Andressa Engel on LinkedIn" title="Follow Andressa Engel on LinkedIn"/>](https://www.linkedin.com/in/andressa-engel/)<h1>Oi Teste</h1>
 </div>
@@ -182,5 +183,11 @@ Here are some ideas to get you started:
  &nbsp;&nbsp;
  [<img src="https://github.com/engelandressa/engelandressa/blob/main/python-icon.png" height="30em" align="center" alt="Python" title="Python"/>](https://www.linkedin.com/in/andressa-engel/)
  &nbsp;&nbsp;
+
+ 
+<p align="center">
+  <img src="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png" alt="Nina" width="30"/>
+</p>
+
 
 -->

@@ -102,8 +102,8 @@ Spanish         ▰▱▱▱▱▱ 17%
 <a href="https://www.behance.net/engelandressa" title="Follow Andressa Engel on Behance" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/a8827231f5ca72001a852665a4dfcaad02728851/behance-icon.png">
-    <img alt="Follow Andressa Engel on Behance" align="left" src="https://github.com/engelandressa/engelandressa/blob/a8827231f5ca72001a852665a4dfcaad02728851/behance-icon.png" width="30">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/behance-icon.png">
+    <img alt="Follow Andressa Engel on Behance" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/behance-icon.png" width="30">
   </picture>
 </a>
 &nbsp;

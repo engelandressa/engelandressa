@@ -75,7 +75,7 @@ Spanish         ▰▱▱▱▱▱ 17%
 
 ## Teste
 
-<a href="https://www.linkedin.com/in/andressa-engel/" title="Follow Andressa Engel on LinkedIn" target="_blank">
+<a href="https://www.linkedin.com/in/andressa-engel/" title="Follow Andressa Engel on LinkedIn" target="_blank" rel="noopener noreferrer">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon.png">

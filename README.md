@@ -75,9 +75,9 @@ Spanish         ▰▱▱▱▱▱ 17%
 
 ## Teste
 
-<a href="https://www.linkedin.com/in/andressa-engel/" title="Follow Andressa Engel on LinkedIn" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/andressa-engel/" title="Follow Andressa Engel on LinkedIn" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon-white.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon.png">
     <img alt="Follow Andressa Engel on LinkedIn" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon.png" width="30">
   </picture>
@@ -85,7 +85,7 @@ Spanish         ▰▱▱▱▱▱ 17%
 &nbsp;
 <a href="https://www.andressaengel.com/" title="Check Out Andressa Engel's Website - Portfolio" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/web-icon-white.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png">
     <img alt="Check Out Andressa Engel's Website - Portfolio" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png" width="30">
   </picture>
@@ -93,7 +93,7 @@ Spanish         ▰▱▱▱▱▱ 17%
 &nbsp;
 <a href="mailto:engelandressa@hotmail.com" title="Mail to: engelandressa@hotmail.com" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/email-icon-white.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/email-icon.png">
     <img alt="Mail to: engelandressa@hotmail.com" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/email-icon.png" width="30">
   </picture>
@@ -101,7 +101,7 @@ Spanish         ▰▱▱▱▱▱ 17%
 &nbsp;
 <a href="https://www.behance.net/engelandressa" title="Follow Andressa Engel on Behance" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/behance-icon-white.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/behance-icon.png">
     <img alt="Follow Andressa Engel on Behance" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/behance-icon.png" width="30">
   </picture>

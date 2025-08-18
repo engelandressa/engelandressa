@@ -108,16 +108,16 @@ Spanish         ▰▱▱▱▱▱ 17%
   <a href="https://www.andressaengel.com/" title="Hey!" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/coffee-pixel-icon.png">
-    <img alt="Hey!" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/coffee-pixel-icon.png" width="30">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/chocolate-cake-pixel-icon.png">
+    <img alt="Hey!" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/chocolate-cake-pixel-icon.png" width="30">
   </picture>
 </a>
 
   <a href="https://www.andressaengel.com/" title="Hey!" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/tapioca-pixel-icon.png">
-    <img alt="Hey!" align="right" src="https://github.com/engelandressa/engelandressa/blob/main/tapioca-pixel-icon.png" width="30">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/pudding-pixel-icon.png">
+    <img alt="Hey!" align="right" src="https://github.com/engelandressa/engelandressa/blob/main/pudding-pixel-icon.png" width="30">
   </picture>
 </a>
 

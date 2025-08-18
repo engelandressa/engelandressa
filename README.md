@@ -102,9 +102,24 @@ Japanese        ▰▰▰▱▱▱ 50%
 Spanish         ▰▱▱▱▱▱ 17% 
 ```
 
-<p align="center">
-  <a href="https://www.andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png" alt="Nina" width="30"/></a>
+<p align="center" title="woof">
+  <a href="https://www.andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png" alt="woof" width="30"/></a>
 
+  <a href="https://www.andressaengel.com/" title="Hey!" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/coffee-pixel-icon.png">
+    <img alt="Hey!" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/coffee-pixel-icon.png" width="30">
+  </picture>
+</a>
+
+  <a href="https://www.andressaengel.com/" title="Hey!" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/tapioca-pixel-icon.png">
+    <img alt="Hey!" align="right" src="https://github.com/engelandressa/engelandressa/blob/main/tapioca-pixel-icon.png" width="30">
+  </picture>
+</a>
 
 <!-- 
 <p align="left">

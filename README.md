@@ -81,6 +81,14 @@
 </a>
 &nbsp;
 
+  <a href="https://www.amazon.com.br/hz/wishlist/ls/3GW3ZLJ2VJ572?ref_=wl_share" title="" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/transparent-1x1.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/transparent-1x1.png">
+    <img alt="" align="right" src="https://github.com/engelandressa/engelandressa/blob/main/transparent-1x1.png" width="30">
+  </picture>
+</a>
+
 ## Software I Know
 
 <img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/pixel-bust.gif" height="200" >
@@ -109,7 +117,7 @@ Spanish         ▰▱▱▱▱▱ 17%
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/chocolate-cake-pixel-icon.png">
-    <img alt="Hey!" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/chocolate-cake-pixel-icon.png" width="30">
+    <img alt="Hey!" align="right" src="https://github.com/engelandressa/engelandressa/blob/main/chocolate-cake-pixel-icon.png" width="30">
   </picture>
 </a>
 
@@ -117,7 +125,7 @@ Spanish         ▰▱▱▱▱▱ 17%
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/pudding-pixel-icon.png">
-    <img alt="Hey!" align="right" src="https://github.com/engelandressa/engelandressa/blob/main/pudding-pixel-icon.png" width="30">
+    <img alt="Hey!" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/pudding-pixel-icon.png" width="30">
   </picture>
 </a>
 

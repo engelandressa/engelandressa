@@ -128,6 +128,8 @@ Spanish         ▰▱▱▱▱▱ 17%
 
 ```text
 
+Thank you for exploring my page!
+
 ```
    
 <p align="center" title="woof">

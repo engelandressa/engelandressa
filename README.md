@@ -126,7 +126,16 @@ Spanish         ▰▱▱▱▱▱ 17%
 ##
 
 ```text
+<p align="center" title="woof">
+  <a href="https://www.andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/img/nina-pixel-icon.png" alt="woof" width="30"/></a>
 
+  <a href="https://www.amazon.com.br/hz/wishlist/ls/2EYF9GLP0DDZV?ref_=wl_share" title="Hey!" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/nina-pixel-icon.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/chocolate-cake-pixel-icon.png">
+    <img alt="Hey!" align="right" src="https://github.com/engelandressa/engelandressa/blob/main/img/chocolate-cake-pixel-icon.png" width="30">
+  </picture>
+</a>
 ```
    
 <p align="center" title="woof">

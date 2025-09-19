@@ -119,6 +119,10 @@ Japanese        ▰▰▰▱▱▱ 50%
 Spanish         ▰▱▱▱▱▱ 17% 
 ```
 
+## Badges
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b57f3075-ad46-49c6-b6d7-036299fbf854" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <p align="center" title="woof">
   <a href="https://www.andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/img/nina-pixel-icon.png" alt="woof" width="30"/></a>
 

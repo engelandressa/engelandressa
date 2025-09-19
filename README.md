@@ -2,7 +2,7 @@
 
 
 
-<img align='left' src="https://github.com/engelandressa/engelandressa/blob/main/pixel-walking.gif" height="200" >
+<img align='left' src="https://github.com/engelandressa/engelandressa/blob/main/img/pixel-walking.gif" height="200" >
 
    &nbsp;&nbsp;
 <p>I'm a <b>Brazilian Graphic Designer</b> with 4+ years of experience. Currently, I'm <b>transitioning into the tech field</b>, combining my background in Design with new skills in UI/UX and software development to become a <b>Developer</b>. </p>
@@ -14,9 +14,9 @@
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/andressa-engel/" title="Follow Andressa Engel on LinkedIn" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon.png">
-    <img alt="Follow Andressa Engel on LinkedIn" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon.png" width="30">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/linkedin-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/linkedin-icon.png">
+    <img alt="Follow Andressa Engel on LinkedIn" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/linkedin-icon.png" width="30">
   </picture>
 </a>
 &nbsp;

@@ -118,13 +118,13 @@ English         ▰▰▰▰▰▰ 100%
 Japanese        ▰▰▰▱▱▱ 50% 
 Spanish         ▰▱▱▱▱▱ 17% 
 ```
-
 ## Badges
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b57f3075-ad46-49c6-b6d7-036299fbf854" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <p align="center" title="woof">
   <a href="https://www.andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/img/nina-pixel-icon.png" alt="woof" width="30"/></a>
+
+<p align="center" title="Cyber Threat Management">
+  <a href="https://www.andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/img/cyber-threat-management.png" alt="Cyber Threat Management" width="30"/></a>
 
   <a href="https://www.amazon.com.br/hz/wishlist/ls/2EYF9GLP0DDZV?ref_=wl_share" title="Hey!" target="_blank">
   <picture>

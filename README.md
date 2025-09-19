@@ -120,11 +120,11 @@ Spanish         ▰▱▱▱▱▱ 17%
 ```
 ## Badges
 
-<p align="center" title="woof">
-  <a href="https://www.credly.com/badges/b57f3075-ad46-49c6-b6d7-036299fbf854/public_url"><img src="https://github.com/engelandressa/engelandressa/blob/main/img/nina-pixel-icon.png" alt="woof" width="30"/></a>
+<p align="left" title="Cyber Threat Management">
+  <a href="https://www.credly.com/badges/b57f3075-ad46-49c6-b6d7-036299fbf854/public_url"><img src="https://github.com/engelandressa/engelandressa/blob/main/img/cyber-threat-management.png" alt="Cyber Threat Management" width="40"/></a>
 
-<p align="center" title="Cyber Threat Management">
-  <a href="https://www.andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/img/cyber-threat-management.png" alt="Cyber Threat Management" width="30"/></a>
+<p align="center" title="woof">
+  <a href="https://www.andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/img/nina-pixel-icon.png" alt="woof" width="30"/></a>
 
   <a href="https://www.amazon.com.br/hz/wishlist/ls/2EYF9GLP0DDZV?ref_=wl_share" title="Hey!" target="_blank">
   <picture>

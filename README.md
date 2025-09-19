@@ -121,9 +121,11 @@ Spanish         ▰▱▱▱▱▱ 17%
 ## Badges
 
 <p align="left" title="Cyber Threat Management">
-  <a href="https://www.credly.com/badges/b57f3075-ad46-49c6-b6d7-036299fbf854/public_url"><img src="https://github.com/engelandressa/engelandressa/blob/main/img/cyber-threat-management.png" alt="Cyber Threat Management" width="100"/></a>
+  <a href="https://www.credly.com/badges/b57f3075-ad46-49c6-b6d7-036299fbf854/public_url"><img src="https://github.com/engelandressa/engelandressa/blob/main/img/cyber-threat-management.png" alt="Cyber Threat Management" width="120"/></a>
 
 ##
+
+```text
 
 ```
    
@@ -146,7 +148,6 @@ Spanish         ▰▱▱▱▱▱ 17%
   </picture>
 </a>
 
-```
 <!-- 
 <p align="left">
 <a href="https://www.andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png" alt="Nina" width="20"/></a><h1>Hi, I'm Andressa!</h1>

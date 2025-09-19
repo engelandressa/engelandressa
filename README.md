@@ -48,6 +48,14 @@
 ## Technologies I'm Learning
 
 &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/andressa-engel/" title="Python - Basic" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/python-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/python-icon.png">
+    <img alt="Python - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/python-icon.png" width="30">
+  </picture>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/andressa-engel/" title="HTML - Basic" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/html-icon-white.png">
@@ -72,14 +80,6 @@
   </picture>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/andressa-engel/" title="Python - Basic" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/python-icon-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/python-icon.png">
-    <img alt="Python - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/python-icon.png" width="30">
-  </picture>
-</a>
-&nbsp;
 <a href="https://www.linkedin.com/in/andressa-engel/" title="Bootstrap - Basic" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/bootstrap-icon-white.png">
@@ -88,6 +88,7 @@
   </picture>
 </a>
 &nbsp;
+
 
   <a href="https://www.amazon.com.br/hz/wishlist/ls/3GW3ZLJ2VJ572?ref_=wl_share" title="" target="_blank">
   <picture>

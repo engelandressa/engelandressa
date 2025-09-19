@@ -22,25 +22,25 @@
 &nbsp;
 <a href="https://www.andressaengel.com/" title="Check Out Andressa Engel's Website - Portfolio" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/web-icon-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png">
-    <img alt="Check Out Andressa Engel's Website - Portfolio" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png" width="30">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/web-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/web-icon.png">
+    <img alt="Check Out Andressa Engel's Website - Portfolio" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/web-icon.png" width="30">
   </picture>
 </a>
 &nbsp;
 <a href="mailto:engelandressa@hotmail.com" title="Mail to: engelandressa@hotmail.com" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/email-icon-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/email-icon.png">
-    <img alt="Mail to: engelandressa@hotmail.com" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/email-icon.png" width="30">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/email-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/email-icon.png">
+    <img alt="Mail to: engelandressa@hotmail.com" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/email-icon.png" width="30">
   </picture>
 </a>
 &nbsp;
 <a href="https://www.behance.net/engelandressa" title="Follow Andressa Engel on Behance" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/behance-icon-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/behance-icon.png">
-    <img alt="Follow Andressa Engel on Behance" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/behance-icon.png" width="30">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/behance-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/behance-icon.png">
+    <img alt="Follow Andressa Engel on Behance" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/behance-icon.png" width="30">
   </picture>
 </a>
 &nbsp;
@@ -50,56 +50,56 @@
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/andressa-engel/" title="HTML - Basic" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/html-icon-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/html-icon.png">
-    <img alt="HTML - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/html-icon.png" width="30">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/html-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/html-icon.png">
+    <img alt="HTML - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/html-icon.png" width="30">
   </picture>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/andressa-engel/" title="CSS - Basic" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/css-3-icon-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/css-3-icon.png">
-    <img alt="CSS - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/css-3-icon.png" width="30">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/css-3-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/css-3-icon.png">
+    <img alt="CSS - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/css-3-icon.png" width="30">
   </picture>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/andressa-engel/" title="JavaScript - Basic" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/java-script-icon-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/java-script-icon.png">
-    <img alt="JavaScript - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/java-script-icon.png" width="30">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/java-script-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/java-script-icon.png">
+    <img alt="JavaScript - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/java-script-icon.png" width="30">
   </picture>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/andressa-engel/" title="Python - Basic" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/python-icon-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/python-icon.png">
-    <img alt="Python - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/python-icon.png" width="30">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/python-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/python-icon.png">
+    <img alt="Python - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/python-icon.png" width="30">
   </picture>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/andressa-engel/" title="Bootstrap - Basic" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/python-icon-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/python-icon.png">
-    <img alt="Python - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/python-icon.png" width="30">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/python-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/python-icon.png">
+    <img alt="Python - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/python-icon.png" width="30">
   </picture>
 </a>
 &nbsp;
 
   <a href="https://www.amazon.com.br/hz/wishlist/ls/3GW3ZLJ2VJ572?ref_=wl_share" title="" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/transparent-1x1.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/transparent-1x1.png">
-    <img alt="" align="right" src="https://github.com/engelandressa/engelandressa/blob/main/transparent-1x1.png" width="30">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/transparent-1x1.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/transparent-1x1.png">
+    <img alt="" align="right" src="https://github.com/engelandressa/engelandressa/blob/main/img/transparent-1x1.png" width="30">
   </picture>
 </a>
 
 ## Software I Know
 
-<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/pixel-bust.gif" height="200" >
+<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/pixel-bust.gif" height="200" >
 
 - Visual Studio Code
 - Figma
@@ -119,21 +119,21 @@ Spanish         ▰▱▱▱▱▱ 17%
 ```
 
 <p align="center" title="woof">
-  <a href="https://www.andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png" alt="woof" width="30"/></a>
+  <a href="https://www.andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/img/nina-pixel-icon.png" alt="woof" width="30"/></a>
 
   <a href="https://www.amazon.com.br/hz/wishlist/ls/2EYF9GLP0DDZV?ref_=wl_share" title="Hey!" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/chocolate-cake-pixel-icon.png">
-    <img alt="Hey!" align="right" src="https://github.com/engelandressa/engelandressa/blob/main/chocolate-cake-pixel-icon.png" width="30">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/nina-pixel-icon.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/chocolate-cake-pixel-icon.png">
+    <img alt="Hey!" align="right" src="https://github.com/engelandressa/engelandressa/blob/main/img/chocolate-cake-pixel-icon.png" width="30">
   </picture>
 </a>
 
   <a href="https://www.andressaengel.com/" title="Hey!" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/pudding-pixel-icon.png">
-    <img alt="Hey!" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/pudding-pixel-icon.png" width="30">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/nina-pixel-icon.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/pudding-pixel-icon.png">
+    <img alt="Hey!" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/pudding-pixel-icon.png" width="30">
   </picture>
 </a>
 

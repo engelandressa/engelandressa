@@ -82,9 +82,9 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/andressa-engel/" title="Bootstrap - Basic" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/python-icon-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/python-icon.png">
-    <img alt="Python - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/python-icon.png" width="30">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/bootstrap-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/bootstrap-icon.png">
+    <img alt="Bootstrap - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/bootstrap-icon.png" width="30">
   </picture>
 </a>
 &nbsp;

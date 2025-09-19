@@ -109,6 +109,7 @@
 - Illustrator
 - Clip Studio Paint
 - CapCut
+- PyCharm
 
 ## Languages I Speak
 

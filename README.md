@@ -89,7 +89,6 @@
 </a>
 &nbsp;
 
-
   <a href="https://www.amazon.com.br/hz/wishlist/ls/3GW3ZLJ2VJ572?ref_=wl_share" title="" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/transparent-1x1.png">
@@ -121,8 +120,22 @@ Spanish         ▰▱▱▱▱▱ 17%
 ```
 ## Badges
 
-<p align="left" title="Cyber Threat Management">
-  <a href="https://www.credly.com/badges/b57f3075-ad46-49c6-b6d7-036299fbf854/public_url"><img src="https://github.com/engelandressa/engelandressa/blob/main/img/cyber-threat-management.png" alt="Cyber Threat Management" width="120"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/andressa-engel/" title="JavaScript - Basic" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/java-script-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/java-script-icon.png">
+    <img alt="JavaScript - Basic" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/java-script-icon.png" width="30">
+  </picture>
+</a>
+
+  <a href="https://www.credly.com/badges/b57f3075-ad46-49c6-b6d7-036299fbf854/public_url" title="Cyber Threat Management" target="_blank">
+     <picture>
+        <source srcset="https://github.com/engelandressa/engelandressa/blob/main/img/cyber-threat-management.png">
+        <img alt="Cyber Threat Management" width="120"/>  
+   </picture>
+</a>
+        
 
 <p align="left" title="OCI Foundations">
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0399A7D37633FC6190BF0FEE7D561262E988CAF1C8199EF6E7872AAF43F04DF"><img src="https://github.com/engelandressa/engelandressa/blob/main/img/oci-foundations.png" alt="OCI Foundations" width="120"/></a>

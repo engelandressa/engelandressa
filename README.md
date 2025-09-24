@@ -121,17 +121,17 @@ Spanish         ▰▱▱▱▱▱ 17%
 ## Badges
 
 &nbsp;
-<a href="https://www.credly.com/badges/b57f3075-ad46-49c6-b6d7-036299fbf854/public_url" title="Cyber Threat Management" target="_blank">
-   <picture>
-      <source srcset="https://github.com/engelandressa/engelandressa/blob/main/img/cyber-threat-management.png">
-      <img alt="Cyber Threat Management" width="120"/>  
-   </picture>
-</a>
-&nbsp;
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0399A7D37633FC6190BF0FEE7D561262E988CAF1C8199EF6E7872AAF43F04DF" title="OCI Foundations" target="_blank">
    <picture>
       <source srcset="https://github.com/engelandressa/engelandressa/blob/main/img/oci-foundations.png">
      <img alt="OCI Foundations" width="120"/>
+   </picture>
+</a>
+&nbsp;
+<a href="https://www.credly.com/badges/b57f3075-ad46-49c6-b6d7-036299fbf854/public_url" title="Cyber Threat Management" target="_blank">
+   <picture>
+      <source srcset="https://github.com/engelandressa/engelandressa/blob/main/img/cyber-threat-management.png">
+      <img alt="Cyber Threat Management" width="120"/>  
    </picture>
 </a>
 

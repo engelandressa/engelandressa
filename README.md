@@ -44,6 +44,14 @@
   </picture>
 </a>
 &nbsp;
+<a href="https://stackshare.io/engelandressa/my-production-stack" title="Follow Andressa Engel on Stackshare" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/stackshare-icon-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/stackshare-icon.png">
+    <img alt="Follow Andressa Engel on Stackshare" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/stackshare-icon.png" width="30">
+  </picture>
+</a>
+&nbsp;
 
 ## Technologies I'm Learning
 

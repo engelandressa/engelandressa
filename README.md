@@ -152,7 +152,7 @@ Thank you for exploring my page!
 ```
    
 <p align="center" title="woof">
-  <a href="https://www.andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/img/nina-pixel-icon.png" alt="woof" width="30"/></a>
+  <a href="https://andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/img/nina-pixel-icon.png" alt="woof" width="30"/></a>
 
   <a href="https://www.amazon.com.br/hz/wishlist/ls/2EYF9GLP0DDZV?ref_=wl_share" title="Hey!" target="_blank">
   <picture>
@@ -162,7 +162,7 @@ Thank you for exploring my page!
   </picture>
 </a>
 
-  <a href="https://www.andressaengel.com/" title="Hey!" target="_blank">
+  <a href="https://andressaengel.com/" title="Hey!" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/nina-pixel-icon.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/pudding-pixel-icon.png">
@@ -172,7 +172,7 @@ Thank you for exploring my page!
 
 <!-- 
 <p align="left">
-<a href="https://www.andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png" alt="Nina" width="20"/></a><h1>Hi, I'm Andressa!</h1>
+<a href="https://andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/nina-pixel-icon.png" alt="Nina" width="20"/></a><h1>Hi, I'm Andressa!</h1>
 </p>
 <img align="left" src="https://github.com/engelandressa/engelandressa/blob/main/coffee-pixel-icon.png" height="50" ><h1>Hi, I'm Andressa!</h1>
 
@@ -199,7 +199,7 @@ Thank you for exploring my page!
 <!--
 
 <p align="center">
-  <a href="https://www.andressaengel.com/">Andressa Engel</a> | Graphic Designer | Developer In Progress | 2025 .
+  <a href="https://andressaengel.com/">Andressa Engel</a> | Graphic Designer | Developer In Progress | 2025 .
 </p>
 
 
@@ -239,7 +239,7 @@ Here are some ideas to get you started:
 
 
 - <b>LinkedIn:</b> [Andressa Engel](https://www.linkedin.com/in/andressa-engel/)
-- <b>Website:</b> [Portfolio Website](https://www.andressaengel.com/)
+- <b>Website:</b> [Portfolio Website](https://andressaengel.com/)
 
 
 ## Where To Find Me
@@ -247,7 +247,7 @@ Here are some ideas to get you started:
    &nbsp;&nbsp;
  [<img src="https://github.com/engelandressa/engelandressa/blob/main/linkedin-icon.png" height="30em" align="center" alt="Follow Andressa Engel on LinkedIn" title="Follow Andressa Engel on LinkedIn"/>](https://www.linkedin.com/in/andressa-engel/)
    &nbsp;&nbsp;
- [<img src="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png" height="30em" align="center" alt="Check Out Andressa Engel's Website - Portfolio" title="Check Out Andressa Engel's Website - Portfolio"/>](https://www.andressaengel.com/)
+ [<img src="https://github.com/engelandressa/engelandressa/blob/main/web-icon.png" height="30em" align="center" alt="Check Out Andressa Engel's Website - Portfolio" title="Check Out Andressa Engel's Website - Portfolio"/>](https://andressaengel.com/)
  &nbsp;&nbsp;
  [<img src="https://github.com/engelandressa/engelandressa/blob/main/email-icon.png" height="30em" align="center" alt="Mail to Andressa Engel" title="Mail to Andressa Engel"/>](mailto:engelandressa@hotmail.com)
  &nbsp;&nbsp;

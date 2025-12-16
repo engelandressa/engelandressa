@@ -20,7 +20,7 @@
   </picture>
 </a>
 &nbsp;
-<a href="https://www.andressaengel.com/" title="Check Out Andressa Engel's Website - Portfolio" target="_blank">
+<a href="https://andressaengel.com/" title="Check Out Andressa Engel's Website - Portfolio" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/web-icon-white.png">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/engelandressa/engelandressa/blob/main/img/web-icon.png">

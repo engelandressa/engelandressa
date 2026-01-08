@@ -136,7 +136,7 @@
   </a>
 </p>
 
-<table>
+<table border="0">
   <tr>
     <td align="left">
       <a href="https://stackshare.io/engelandressa/my-production-stack" target="_blank">
@@ -147,7 +147,7 @@
         />
       </a>
     </td>
-    <td width="40"></td>
+    <td width="2000"></td>
     <td align="right">
       <a href="https://andressaengel.com" target="_blank">
         <img 

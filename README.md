@@ -116,8 +116,10 @@
 
 ## Software I Know
 
-<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/cloud-git.gif" height="150" >
+<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/click-here.gif" height="150" >
 
+<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/cloud-git.gif" height="150" >
+<!-- 
 - Visual Studio Code
 - Figma
 - Photoshop
@@ -126,7 +128,7 @@
 - Clip Studio Paint
 - CapCut
 - PyCharm
-
+-->
 ## Languages I Speak
 
 ```text

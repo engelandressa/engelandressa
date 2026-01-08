@@ -11,7 +11,7 @@
 </div>
 
 
-<img align='left' src="https://github.com/engelandressa/engelandressa/blob/main/img/pixel-walking.gif" height="200" >
+<img align='left' src="https://github.com/engelandressa/engelandressa/blob/main/img/andressa-engel-1-git.gif" height="200" >
 
    &nbsp;&nbsp;
 <p>I'm a <b>Brazilian Graphic Designer</b> with 4+ years of experience. Currently, I'm <b>transitioning into the tech field</b>, combining my background in Design with new skills in UI/UX and software development to become a <b>Developer</b>. </p>

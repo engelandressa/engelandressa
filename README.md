@@ -145,6 +145,14 @@
 -->
 
 <p align="center">
+  <a href="https://andressaengel.com" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/cloud-git.gif"
+      alt="Andressa Engel Portfolio"
+      height="60"
+    />
+  </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://stackshare.io/engelandressa/my-production-stack" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/click-here.gif"

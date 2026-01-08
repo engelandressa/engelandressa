@@ -64,9 +64,6 @@
 
 ## Technologies I'm Learning
 
-<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/click-here.gif" height="150" >
-
-
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/andressa-engel/" title="Python - Basic" target="_blank">
   <picture>
@@ -118,6 +115,9 @@
 </a>
 
 ## Software I Know
+
+<img align='left' src="https://github.com/engelandressa/engelandressa/blob/main/img/click-here.gif" height="80" >
+
 <br>
 <br>
 <br>

@@ -126,7 +126,7 @@
     />
   </a>
 </div>
-<div align="left">
+<div align="right">
   <a href="https://andressaengel.com" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/cloud-git.gif"

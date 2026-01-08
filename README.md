@@ -205,9 +205,7 @@ Spanish         ▰▱▱▱▱▱ 17%
        <img alt="OCI Foundations" width="150"/>
      </picture>
   </a>
-</p>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p align="center">
   <a href="https://www.credly.com/badges/b57f3075-ad46-49c6-b6d7-036299fbf854/public_url" title="Cyber Threat Management" target="_blank">
      <picture>
         <source srcset="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/cyber-threat-management.png">

@@ -136,6 +136,29 @@
   </a>
 </p>
 
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://stackshare.io/engelandressa/my-production-stack" target="_blank">
+        <img height="50"
+          src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/click-here.gif"
+        />
+      </a>
+    </td>
+
+    <td width="40"></td>
+
+    <td align="right">
+      <a href="https://andressaengel.com" target="_blank">
+        <img height="80"
+          src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/cloud-git.gif"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 <!-- 
 - Visual Studio Code
 - Figma

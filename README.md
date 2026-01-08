@@ -116,7 +116,7 @@
 
 ## Software I Know
 
-<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/cloud-git.gif" height="100" >
+<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/cloud-git.gif" height="150" >
 
 - Visual Studio Code
 - Figma

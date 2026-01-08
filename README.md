@@ -117,7 +117,7 @@
 ## Software I Know
 
 <br>
-<div align="left">
+<p align="left">
   <a href="https://stackshare.io/engelandressa/my-production-stack" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/click-here.gif"
@@ -125,8 +125,8 @@
       height="50"
     />
   </a>
-</div>
-<div align="right">
+</p>
+<p align="right">
   <a href="https://andressaengel.com" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/cloud-git.gif"
@@ -134,7 +134,7 @@
       height="80"
     />
   </a>
-</div>
+</p>
 
 <!-- 
 - Visual Studio Code

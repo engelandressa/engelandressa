@@ -119,7 +119,7 @@
 <div align="left">
   <a href="https://andressaengel.com" target="_blank">
     <img 
-      src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/click-here.gif.gif"
+      src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/click-here.gif"
       alt="Visit my production stack"
       height="200"
     />

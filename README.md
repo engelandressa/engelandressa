@@ -200,39 +200,15 @@ Spanish         ▰▱▱▱▱▱ 17%
 &nbsp;
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0399A7D37633FC6190BF0FEE7D561262E988CAF1C8199EF6E7872AAF43F04DF" title="OCI Foundations" target="_blank">
    <picture>
-      <source srcset="https://github.com/engelandressa/engelandressa/blob/main/img/oci-foundations.png">
-     <img alt="OCI Foundations" width="120"/>
+      <source srcset="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/oci-foundations.png">
+     <img alt="OCI Foundations" width="150"/>
    </picture>
 </a><a href="https://www.credly.com/badges/b57f3075-ad46-49c6-b6d7-036299fbf854/public_url" title="Cyber Threat Management" target="_blank">
    <picture>
-      <source srcset="https://github.com/engelandressa/engelandressa/blob/main/img/cyber-threat-management.png">
-      <img alt="Cyber Threat Management" width="120"/>  
+      <source srcset="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/cyber-threat-management.png">
+      <img alt="Cyber Threat Management" width="150"/>  
    </picture>
 </a>
-
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0399A7D37633FC6190BF0FEE7D561262E988CAF1C8199EF6E7872AAF43F04DF" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/oci-foundations.png"
-          alt="OCI Foundations"
-          width="120"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.credly.com/badges/b57f3075-ad46-49c6-b6d7-036299fbf854/public_url" target="_blank">
-        <img
-          src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/cyber-threat-management.png"
-          alt="Cyber Threat Management"
-          width="120"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 
 ##

@@ -121,13 +121,11 @@
     <img 
       src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/click-here.gif"
       alt="Visit my production stack"
-      height="80"
+      height="50"
     />
   </a>
 </div>
 
-<br>
-<br>
 <br>
 
 <img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/cloud-git.gif" height="150" >

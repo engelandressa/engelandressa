@@ -140,23 +140,25 @@
   <tr>
     <td align="left">
       <a href="https://stackshare.io/engelandressa/my-production-stack" target="_blank">
-        <img height="50"
+        <img 
           src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/click-here.gif"
+          alt="Visit my production stack"
+          height="50"
         />
       </a>
     </td>
-
-    <td width="40"></td>
-
     <td align="right">
       <a href="https://andressaengel.com" target="_blank">
-        <img height="80"
+        <img 
           src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/cloud-git.gif"
+          alt="Andressa Engel Portfolio"
+          height="80"
         />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 <!-- 

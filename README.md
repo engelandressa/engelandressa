@@ -125,6 +125,7 @@
     />
   </a>
 </div>
+<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/cloud-git.gif" height="100" >
 
 <br>
 
@@ -139,7 +140,6 @@
 - PyCharm
 -->
 
-<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/cloud-git.gif" height="100" >
 
 ## Languages I Speak
 

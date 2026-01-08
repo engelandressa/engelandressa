@@ -118,6 +118,7 @@
 
 <br>
 
+<!--
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="left">
@@ -141,6 +142,7 @@
     </td>
   </tr>
 </table>
+-->
 
 <p align="center">
   <a href="https://stackshare.io/engelandressa/my-production-stack" target="_blank">

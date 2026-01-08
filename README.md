@@ -210,6 +210,23 @@ Spanish         ▰▱▱▱▱▱ 17%
    </picture>
 </a>
 
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0399A7D37633FC6190BF0FEE7D561262E988CAF1C8199EF6E7872AAF43F04DF" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/oci-foundations.png"
+    alt="OCI Foundations"
+    width="120"
+    align="top"
+  />
+</a><a href="https://www.credly.com/badges/b57f3075-ad46-49c6-b6d7-036299fbf854/public_url" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/cyber-threat-management.png"
+    alt="Cyber Threat Management"
+    width="120"
+    align="top"
+  />
+</a>
+
+
 ##
 
 ```text

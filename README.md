@@ -131,7 +131,7 @@
     <img 
       src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/cloud-git.gif"
       alt="Andressa Engel Portfolio"
-      height="50"
+      height="80"
     />
   </a>
 </div>

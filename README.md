@@ -1,12 +1,15 @@
 ## Hi, I'm Andressa! 
 
-<a href="https://andressaengel.com" title="Andressa Engel Portfolio" target="_blank">
-  <img 
-    src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/visit-my-portfolio-git.gif"
-    alt="Andressa Engel Portfolio"
-    height="200"
-  />
-</a>
+<div align="center">
+  <a href="https://andressaengel.com" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/visit-my-portfolio-git.gif"
+      alt="Visit my portfolio"
+      height="200"
+    />
+  </a>
+</div>
+
 
 <img align='left' src="https://github.com/engelandressa/engelandressa/blob/main/img/pixel-walking.gif" height="200" >
 

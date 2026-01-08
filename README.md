@@ -199,19 +199,22 @@ Spanish         ▰▱▱▱▱▱ 17%
 
 &nbsp;
 <p align="center">
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0399A7D37633FC6190BF0FEE7D561262E988CAF1C8199EF6E7872AAF43F04DF" title="OCI Foundations" target="_blank">
-   <picture>
-      <source srcset="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/oci-foundations.png">
-     <img alt="OCI Foundations" width="150"/>
-   </picture>
-</a></p>
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=E0399A7D37633FC6190BF0FEE7D561262E988CAF1C8199EF6E7872AAF43F04DF" title="OCI Foundations" target="_blank">
+     <picture>
+        <source srcset="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/oci-foundations.png">
+       <img alt="OCI Foundations" width="150"/>
+     </picture>
+  </a>
+</p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center">
-<a href="https://www.credly.com/badges/b57f3075-ad46-49c6-b6d7-036299fbf854/public_url" title="Cyber Threat Management" target="_blank">
-   <picture>
-      <source srcset="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/cyber-threat-management.png">
-      <img alt="Cyber Threat Management" width="150"/>  
-   </picture>
-</a></p>
+  <a href="https://www.credly.com/badges/b57f3075-ad46-49c6-b6d7-036299fbf854/public_url" title="Cyber Threat Management" target="_blank">
+     <picture>
+        <source srcset="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/cyber-threat-management.png">
+        <img alt="Cyber Threat Management" width="150"/>  
+     </picture>
+  </a>
+</p>
 
 
 ##

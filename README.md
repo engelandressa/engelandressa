@@ -118,7 +118,7 @@
 
 <br>
 <div align="left">
-  <a href="https://andressaengel.com" target="_blank">
+  <a href="https://stackshare.io/engelandressa/my-production-stack" target="_blank">
     <img 
       src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/click-here.gif"
       alt="Visit my production stack"
@@ -126,7 +126,15 @@
     />
   </a>
 </div>
-<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/cloud-git.gif" height="100" >
+<div align="left">
+  <a href="https://andressaengel.com" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/cloud-git.gif"
+      alt="Andressa Engel Portfolio"
+      height="50"
+    />
+  </a>
+</div>
 
 <!-- 
 - Visual Studio Code

@@ -147,6 +147,7 @@
         />
       </a>
     </td>
+    <td width="40"></td>
     <td align="right">
       <a href="https://andressaengel.com" target="_blank">
         <img 

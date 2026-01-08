@@ -116,7 +116,15 @@
 
 ## Software I Know
 
-<img align='left' src="https://github.com/engelandressa/engelandressa/blob/main/img/click-here.gif" height="80" >
+<div align="left">
+  <a href="https://andressaengel.com" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/click-here.gif.gif"
+      alt="Visit my production stack"
+      height="200"
+    />
+  </a>
+</div>
 
 <br>
 <br>

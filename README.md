@@ -116,6 +116,7 @@
 
 ## Software I Know
 
+<br>
 <div align="left">
   <a href="https://andressaengel.com" target="_blank">
     <img 
@@ -126,8 +127,6 @@
   </a>
 </div>
 <img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/cloud-git.gif" height="100" >
-
-<br>
 
 <!-- 
 - Visual Studio Code

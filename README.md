@@ -128,7 +128,7 @@
 
 <br>
 
-<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/cloud-git.gif" height="150" >
+
 <!-- 
 - Visual Studio Code
 - Figma
@@ -142,6 +142,7 @@
 
 ## Languages I Speak
 
+<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/cloud-git.gif" height="150" >
 ```text
 Portuguese      ▰▰▰▰▰▰ 100%
 English         ▰▰▰▰▰▰ 100%

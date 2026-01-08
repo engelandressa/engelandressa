@@ -1,6 +1,6 @@
 ## Hi, I'm Andressa! 
 
-<img align='center' src="https://github.com/engelandressa/engelandressa/blob/main/img/visit-my-portfolio-git.gif" height="200" >
+<img align='center' src="https://github.com/engelandressa/engelandressa/blob/main/img/visit-my-portfolio-git.gif" height="100" >
 
 <img align='left' src="https://github.com/engelandressa/engelandressa/blob/main/img/pixel-walking.gif" height="200" >
 

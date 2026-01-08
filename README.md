@@ -1,6 +1,12 @@
 ## Hi, I'm Andressa! 
 
-<img align='center' src="https://github.com/engelandressa/engelandressa/blob/main/img/visit-my-portfolio-git.gif" height="200" >
+
+<a href="https://andressaengel.com" title="Andressa Engel Portfolio" target="_blank">
+   <picture>
+      <source srcset="[https://github.com/engelandressa/engelandressa/blob/main/img/cyber-threat-management.png](https://github.com/engelandressa/engelandressa/blob/main/img/visit-my-portfolio-git.gif)">
+      <img alt="Andressa Engel Portfolio" height="200"/>  
+   </picture>
+</a>
 
 <img align='left' src="https://github.com/engelandressa/engelandressa/blob/main/img/pixel-walking.gif" height="200" >
 

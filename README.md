@@ -172,7 +172,7 @@ Spanish         ▰▱▱▱▱▱ 17%
 Thank you for exploring my page!
 
 ```
-   
+   <!--
 <p align="center" title="woof">
   <a href="https://andressaengel.com/"><img src="https://github.com/engelandressa/engelandressa/blob/main/img/nina-pixel-icon.png" alt="woof" width="30"/></a>
 
@@ -191,6 +191,8 @@ Thank you for exploring my page!
     <img alt="Hey!" align="left" src="https://github.com/engelandressa/engelandressa/blob/main/img/pudding-pixel-icon.png" width="30">
   </picture>
 </a>
+
+-->
 
 <!-- 
 <p align="left">

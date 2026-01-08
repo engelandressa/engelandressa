@@ -142,13 +142,15 @@
 
 ## Languages I Speak
 
-<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/cloud-git.gif" height="150" >
 ```text
 Portuguese      ▰▰▰▰▰▰ 100%
 English         ▰▰▰▰▰▰ 100%
 Japanese        ▰▰▰▱▱▱ 50% 
 Spanish         ▰▱▱▱▱▱ 17% 
 ```
+<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/cloud-git.gif" height="150" >
+
+
 ## Badges
 
 &nbsp;

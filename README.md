@@ -128,7 +128,6 @@
 
 <br>
 
-
 <!-- 
 - Visual Studio Code
 - Figma
@@ -139,9 +138,8 @@
 - CapCut
 - PyCharm
 -->
-<br>
-<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/cloud-git.gif" height="150" >
 
+<img align='right' src="https://github.com/engelandressa/engelandressa/blob/main/img/cloud-git.gif" height="100" >
 
 ## Languages I Speak
 

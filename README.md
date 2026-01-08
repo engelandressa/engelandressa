@@ -121,7 +121,7 @@
     <img 
       src="https://raw.githubusercontent.com/engelandressa/engelandressa/main/img/click-here.gif"
       alt="Visit my production stack"
-      height="200"
+      height="80"
     />
   </a>
 </div>
